@@ -1,0 +1,2 @@
+# compiz
+script compiz + file
